@@ -1,0 +1,1 @@
+Node js is a Javascript runtime built on Chrome's V8 JavaScript Engine. In 2009 an idea come in the mine of Ryan Dahi(Google Engineer) that why not run javascrip outside browser. So he took v8 engin and embeded it in a C++ program and called it Node.exe that is called Node.js later.
